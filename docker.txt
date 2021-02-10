@@ -1,0 +1,12 @@
+# démarrage d'une instance de mariadb en mode démon (processus détaché)
+# avec transmission de mot de passe via variable d'environnement 
+# et mapping de port tcp
+# l'instance est nommée maria-db
+docker run --name aston-mariadb \
+    -e MYSQL_ROOT_PASSWORD=demo \
+    -p 3306:3306 \
+    -d mariadb:10.5
+
+
+# exécution d'un bash sur l'instance aston-mariadb
+docker exec -it aston-mariadb /bin/bash

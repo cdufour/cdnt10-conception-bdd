@@ -1,0 +1,5 @@
+-- Obtenir les email des webmaster (peu importe le club)
+-- Obtenir le nom des clubs fondés avant 1940, triés du plus ancien ou plus récent
+-- Obtenir la liste des rencontres victorieuses du club AS Pierrots Vauban
+-- Obtenir le nombre de diplômes obtenus par Philippe Burgmann (COUNT)
+-- Obtenir la liste des clubs dans le nom contient la séquences "ei" (LIKE)
