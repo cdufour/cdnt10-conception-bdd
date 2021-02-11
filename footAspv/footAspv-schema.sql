@@ -1,8 +1,8 @@
 /*
 * Auteur: Christophe DUFOUR
+*
 * Description
-* Création de la base de données de l'association
-* sportive Perriots Vauban
+* Création de la base de données de l'association sportive Perriots Vauban
 *
 * Contexte
 * Aston - Cours de conception de base de données
